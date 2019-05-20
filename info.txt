@@ -1,0 +1,14 @@
+* searching for words in confluence wiki
+https://your-domain.atlassian.net/wiki/rest/api/content/search?cql=text~"install"
+
+* api
+
+https://your-domain.atlassian.net/wiki/rest/api/content/
+
+* serarching for particular space in confluence wiki
+
+https://your-domain.atlassian.net/wiki/rest/api/content/search?cql=space=Devops
+
+* for converting html to json
+
+pip install html2json
